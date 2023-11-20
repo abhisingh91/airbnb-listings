@@ -6,7 +6,7 @@
 
 🤵 Stakeholder is referenced as someone who is planning to list residences in Austin, Texas
 
-✨ I have come up with many useful insights and visualizations based on seven different features of any listing
+✨ I have come up with many useful insights and visualizations based on seven different features and some custom filters for any listing
 
 ### Helper Modules 💁‍♂️
 I have created two helper modules to reduce redundancy for finding insights
