@@ -17,6 +17,6 @@ I have created two helper modules to reduce redundancy for finding insights
 
 🤝 I hope you find this useful. 
 
-✨ You can also contribute to the project by suggesting any changes or add-ons in the queries if possible.
+✨ You can also contribute to the project by suggesting any changes or add-ons.
 
 #### Thank You! 
